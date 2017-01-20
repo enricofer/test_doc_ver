@@ -2,9 +2,9 @@ riga 0 - v3
 
 riga 1 - v1
 
-riga 2 - v1
+*riga 2* - v2
 
-riga 3 - v1
+*riga 3* - v2
 
 riga 4 - v1
 
